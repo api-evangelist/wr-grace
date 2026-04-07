@@ -1,7 +1,12 @@
 aid: wr-grace
-url: https://raw.githubusercontent.com/api-evangelist/wr-grace/refs/heads/main/apis.yml
+url: 
+  https://raw.githubusercontent.com/api-evangelist/wr-grace/refs/heads/main/apis.yml
 modified: '2026-03-24'
 apis: []
 common:
   - type: Website
     url: https://www.wr-grace.com
+description: >-
+  W. R. Grace & Co. is a global producer of specialty chemicals and specialty materials,
+  providing catalysts and process technologies to refining, petrochemical, and other
+  manufacturers.
