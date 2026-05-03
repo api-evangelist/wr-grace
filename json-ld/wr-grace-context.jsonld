@@ -1,0 +1,80 @@
+{
+  "@context": {
+    "@version": 1.1,
+    "schema": "https://schema.org/",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "grace": "https://grace.com/vocab#",
+    "chebi": "https://www.ebi.ac.uk/chebi/vocab#",
+
+    "SpecialtyChemicalsCompany": {
+      "@id": "schema:Organization",
+      "@type": "@id"
+    },
+    "name": "schema:name",
+    "description": "schema:description",
+    "url": "schema:url",
+
+    "Catalyst": {
+      "@id": "grace:Catalyst",
+      "@type": "@id"
+    },
+    "catalystType": "grace:catalystType",
+    "FCCCatalyst": {
+      "@id": "grace:FCCCatalyst",
+      "@type": "@id"
+    },
+    "zeoliteContent": {
+      "@id": "grace:zeoliteContent",
+      "@type": "xsd:decimal"
+    },
+    "selectivity": "grace:selectivity",
+    "activity": "grace:activity",
+
+    "CatalystTechnologies": {
+      "@id": "grace:CatalystTechnologies",
+      "@type": "@id"
+    },
+    "fluidCatalyticCracking": "grace:fluidCatalyticCracking",
+    "fccAdditive": "grace:fccAdditive",
+    "processLicensing": "grace:processLicensing",
+
+    "MaterialsTechnologies": {
+      "@id": "grace:MaterialsTechnologies",
+      "@type": "@id"
+    },
+    "silicaGel": "grace:silicaGel",
+    "chromatographyMedia": "grace:chromatographyMedia",
+    "precipitatedSilica": "grace:precipitatedSilica",
+
+    "ActivePharmaceuticalIngredient": {
+      "@id": "grace:ActivePharmaceuticalIngredient",
+      "@type": "@id"
+    },
+    "apiName": "grace:apiName",
+    "casNumber": "grace:casNumber",
+    "purity": {
+      "@id": "grace:purity",
+      "@type": "xsd:decimal"
+    },
+    "manufacturingFacility": {
+      "@id": "grace:manufacturingFacility",
+      "@type": "@id"
+    },
+
+    "CDMO": {
+      "@id": "grace:CDMO",
+      "@type": "@id"
+    },
+    "developmentStage": "grace:developmentStage",
+    "scaleUp": "grace:scaleUp",
+    "processValidation": "grace:processValidation",
+    "regulatoryFiling": "grace:regulatoryFiling",
+
+    "Refinery": {
+      "@id": "grace:Refinery",
+      "@type": "@id"
+    },
+    "refiningCapacity": "grace:refiningCapacity",
+    "processTechnology": "grace:processTechnology"
+  }
+}

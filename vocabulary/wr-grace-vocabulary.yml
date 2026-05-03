@@ -1,0 +1,89 @@
+vocabulary:
+  name: W. R. Grace Vocabulary
+  description: >-
+    Domain vocabulary for W. R. Grace & Co., a global specialty chemicals and
+    materials company providing catalysts, process technologies, and engineered
+    materials to refining, petrochemical, pharmaceutical, and industrial markets.
+  version: '2026-05-03'
+  terms:
+    - term: Fluid Catalytic Cracking
+      definition: >-
+        An oil refinery process that uses a catalyst to break down large
+        hydrocarbon molecules into lighter, more valuable products such as
+        gasoline and diesel; Grace's FCC catalysts are used in refineries
+        worldwide.
+      tags:
+        - Catalysis
+        - Refining
+    - term: Catalyst Technologies
+      definition: >-
+        One of Grace's two main business segments, providing fluid catalytic
+        cracking catalysts, additives, and process technologies to petroleum
+        refiners.
+      tags:
+        - Business Segment
+        - Catalysis
+    - term: Materials Technologies
+      definition: >-
+        One of Grace's two main business segments, providing silica-based
+        engineered materials for pharmaceutical, food, coatings, and industrial
+        applications.
+      tags:
+        - Business Segment
+        - Materials Science
+    - term: Active Pharmaceutical Ingredient
+      definition: >-
+        The biologically active component in a drug product; Grace's Fine
+        Chemical Manufacturing Services (FCMS) division develops and manufactures
+        custom and generic APIs for pharmaceutical companies.
+      tags:
+        - Pharmaceutical
+        - Manufacturing
+    - term: Silica
+      definition: >-
+        Silicon dioxide (SiO2)-based materials that Grace produces in various
+        forms for applications in chromatography media, food processing, paints
+        and coatings, and personal care products.
+      tags:
+        - Materials
+        - Chemistry
+    - term: CDMO
+      definition: >-
+        Contract Development and Manufacturing Organization; Grace's FCMS
+        division operates as a CDMO providing API development and manufacturing
+        services to pharmaceutical companies.
+      tags:
+        - Pharmaceutical
+        - Contract Manufacturing
+    - term: Chromatography Media
+      definition: >-
+        Silica-based materials used in pharmaceutical purification processes to
+        separate and isolate active pharmaceutical ingredients from reaction
+        mixtures.
+      tags:
+        - Pharmaceutical
+        - Purification
+    - term: FCC Additive
+      definition: >-
+        Specialty additives used alongside FCC catalysts to improve gasoline
+        yields, reduce sulfur content, improve octane, or reduce NOx emissions
+        in the refining process.
+      tags:
+        - Refining
+        - Additives
+    - term: Specialty Chemicals
+      definition: >-
+        Chemical products produced in smaller quantities and sold at higher prices
+        than commodity chemicals, characterized by specific properties and
+        performance characteristics for targeted applications.
+      tags:
+        - Chemistry
+        - Industry
+    - term: Zeolite
+      definition: >-
+        Microporous aluminosilicate minerals used as active components in FCC
+        catalysts; their structure determines the selectivity and activity
+        of the cracking reaction.
+      tags:
+        - Materials
+        - Catalysis
