@@ -12,9 +12,20 @@ description: >-
   pharmaceutical industry. W. R. Grace does not offer a public developer API
   for software integration.
 type: Index
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
 position: Producer
 access: Public
-image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/wr-grace.png
 tags:
   - Specialty Chemicals
   - Catalysts
