@@ -1,7 +1,9 @@
 ---
 title: W.R. Grace Holdings LLC's Proposed $500 Million S
 url: https://www.spglobal.com/ratings/en/regulatory/article/-/view/type/HTML/id/3506111
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"W.R. Grace" press release artificial intelligence'
 position: 4
 source: serpapi-google

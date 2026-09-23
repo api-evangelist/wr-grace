@@ -1,7 +1,9 @@
 ---
 title: Grace and Molecule.one to Transform Peptide Building ...
 url: https://grace.com/newsroom/press-releases/2025-press-releases/Grace-and-Moleculeone-to-Transform-Peptide-Building-Block-Synthesis-with-AI/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"W.R. Grace" press release artificial intelligence'
 position: 3
 source: serpapi-google
